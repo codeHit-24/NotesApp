@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="kuromi_black">#0F0F14</color>
+    <color name="kuromi_purple">#6B4EFF</color>
+    <color name="kuromi_lavender">#C8BFFF</color>
+    <color name="kuromi_white">#FFFFFF</color>
+
+
+</resources>
